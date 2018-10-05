@@ -1,3 +1,5 @@
+# fixed: no reflection directory structure bug
+
 # [gulp](https://github.com/wearefractal/gulp)-ect
 
 > Gulp plugin to compile ect.js template engine
